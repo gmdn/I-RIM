@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+no;44;si pazienti;8;applicare il distanziamento;3;applicare il distanziamento sociale; 3
+colleghi;35;colleghi e;7;colleghi e studenti;3;è spesso non si; 3
+pazienti;17;applicare il;3;è spesso non;3;non si può applicare; 3
+clienti;13;clienti colleghi;3;il distanziamento sociale;3;può applicare il distanziamento; 3
+sì; 8;contatto con;3;in contatto con;3;si è spesso non; 3
+fornitori; 5;di no;3;non si può;3;si può applicare il; 3
+persone; 5;distanziamento sociale;3;può applicare il;3;spesso non si può; 3
+studenti; 5;e colleghi;3;si è spesso;3;che sono state contagiate; 2
+contatto; 4;è spesso;3;si può applicare;3;contagiate addetti alle pulizie; 2
+distanziamento; 4;e studenti;3;spesso non si;3;in contatto con colleghi; 2
+possibile; 4;il distanziamento;3;addetti alle pulizie;2;persone che sono state; 2
+può; 4;in contatto;3;che sono state;2;si persone che sono; 2
+applicare; 3;non si;3;contagiate addetti alle;2;sono state contagiate addetti; 2
+corrieri; 3;persone che;3;contatto con colleghi;2;state contagiate addetti alle; 2
+credo; 3;può applicare;3;persone che sono;2;a frequentare lo studio; 1
+quando; 3;si è;3;si persone che;2;a rischio e quindi; 1
+sociale; 3;si può;3;sono state contagiate;2;al lavoro non più; 1
+spesso; 3;spesso non;3;spero di no;2;al rientro in ufficio; 1
+addetti; 2;addetti alle;2;state contagiate addetti;2;alcune attività lavorative per; 1
+attività; 2;alle pulizie;2;a frequentare lo;1;attività lavorative per ora; 1
+auspicabilmente; 2;auspicabilmente no;2;a rischio e;1;attività quando verranno diminuite; 1
+contagiate; 2;che sono;2;al lavoro non;1;che non tornerò in; 1
+essere; 2;clienti corrieri;2;al momneto no;1;che possono essere contaminate; 1
+lavoro; 2;clienti e;2;al rientro in;1;chi lo è e; 1
+necessario; 2;colleghi pazienti;2;alcune attività lavorative;1;ci saranno persone che; 1
+ora; 2;con colleghi;2;allo stato no;1;clienti colleghi e fornitori; 1
+penso; 2;contagiate addetti;2;attività lavorative per;1;colleghi che frequentano l'ufficio; 1
+potenzialmente; 2;in ufficio;2;attività quando verranno;1;colleghi e spostamenti con; 1
+pulizie; 2;pazienti colleghi;2;caso solo colleghi;1;colleghi non è necessario; 1
+solo; 2;per il;2;che frequentano l'ufficio;1;colleghi per svolgere alcune; 1
+spero; 2;per ora;2;che non tornerò;1;colleghi se si decidera; 1
+state; 2;si colleghi;2;che possono essere;1;colleghi studenti partner d; 1
+tornerò; 2;si i;2;chi lo è;1;con colleghi non è; 1
+ufficio; 2;si persone;2;ci saranno persone;1;con colleghi per svolgere; 1
+utenti; 2;sono state;2;clienti colleghi e;1;con i clienti e; 1
+aiuta; 1;spero di;2;clienti corrieri colleghi;1;con la ripresa delle; 1
+alcune; 1;state contagiate;2;clienti e colkeghi;1;contatto con colleghi non; 1
+azienda; 1;a frequentare;1;clienti e colleghi;1;contatto con colleghi per; 1
+caso; 1;a rischio;1;clienti fornitori corrieri;1;contatto con il corriere; 1
+colkeghi; 1;al lavoro;1;colleghi che frequentano;1;cosa deciderà l'ateneo nelle; 1
+contaminate; 1;al momneto;1;colleghi e fornitori;1;credo che non tornerò; 1
+controllati; 1;al rientro;1;colleghi e spostamenti;1;d i progetti o; 1
+corriere; 1;alcune attività;1;colleghi e utenti;1;dall’inizio della pandemia non; 1
+cosa; 1;allo stato;1;colleghi non è;1;decidera di rientrare in; 1
+d; 1;attività lavorative;1;colleghi pazienti utenti;1;deciderà l'ateneo nelle prossime; 1
+dall’inizio; 1;attività quando;1;colleghi per svolgere;1;della pandemia non ho; 1
+decidera; 1;caso solo;1;colleghi se si;1;delle attività quando verranno; 1
+deciderà; 1;che frequentano;1;colleghi studenti partner;1;di rientrare in azienda; 1
+difficile; 1;che non;1;con colleghi non;1;difficile sapere chi lo; 1
+diminuite; 1;che possono;1;con colleghi per;1;disinfezione se scambio di; 1
+disabile; 1;chi lo;1;con i clienti;1;distanziamento uso mascherina disinfezione; 1
+disinfezione; 1;chi no;1;con il corriere;1;e colleghi se si; 1
+ecc; 1;ci saranno;1;con la ripresa;1;è difficile sapere chi; 1
+entrare; 1;clienti fornitori;1;con mezzi pubblici;1;è e chi no; 1
+entro; 1;colleghi che;1;con persone guarite;1;e in pazienti sono; 1
+fatti; 1;colleghi non;1;contatto con il;1;è necessario per il; 1
+figlia; 1;colleghi per;1;cosa deciderà l'ateneo;1;e per la spesa; 1
+frequentano; 1;colleghi principalmente;1;credo che non;1;è possibile con la; 1
+frequentare; 1;colleghi se;1;credo di no;1;e quindi potenzialmente infette; 1
+guarite; 1;colleghi studenti;1;d i progetti;1;e spostamenti con mezzi; 1
+ignoro; 1;con i;1;dall’inizio della pandemia;1;entrare in contatto con; 1
+incontri; 1;con il;1;decidera di rientrare;1;entro in contatto con; 1
+individuali; 1;con la;1;deciderà l'ateneo nelle;1;fatti i tamponi è; 1
+industrie; 1;con malati;1;della pandemia non;1;fornitori e colleghi se; 1
+infermieri; 1;con mezzi;1;delle attività quando;1;i clienti e colkeghi; 1
+infette; 1;con persone;1;di rientrare in;1;i medici e in; 1
+l'ateneo; 1;corrieri colleghi;1;difficile sapere chi;1;i progetti o industrie; 1
+l'ufficio; 1;cosa deciderà;1;diminuite le restrizioni;1;i tamponi è difficile; 1
+lavorare; 1;credo che;1;disinfezione se scambio;1;ignoro cosa deciderà l'ateneo; 1
+lavorative; 1;credo di;1;distanziamento uso mascherina;1;il mio lavoro ma; 1
+malati; 1;d i;1;e chi no;1;il momento no ma; 1
+mascherina; 1;dall’inizio della;1;e colleghi se;1;in contatto con il; 1
+medici; 1;decidera di;1;è difficile sapere;1;in pazienti sono persone; 1
+meet; 1;deciderà l'ateneo;1;è e chi;1;in smart working per; 1
+mezzi; 1;della pandemia;1;e in pazienti;1;in smartworking e per; 1
+momento; 1;delle attività;1;è necessario per;1;in ufficio ma rimarrò; 1
+momneto; 1;di oggetti;1;e per la;1;infette siccome non vengono; 1
+nessun; 1;di ricerca;1;è possibile con;1;l'ateneo nelle prossime settimane; 1
+oggetti; 1;di rientrare;1;e quindi potenzialmente;1;la ripresa delle attività; 1
+only; 1;di si;1;e spostamenti con;1;la spesa non entro; 1
+pandemia; 1;difficile sapere;1;entrare in contatto;1;lavorare in contatto con; 1
+partner; 1;diminuite le;1;entro in contatto;1;lavorative per ora sospese; 1
+possibilmente; 1;disinfezione se;1;fatti i tamponi;1;lavoro non più sono; 1
+possono; 1;distanziamento uso;1;fornitori e colleghi;1;lo è e chi; 1
+potrebbe; 1;e chi;1;fornitori rider ecc;1;ma ignoro cosa deciderà; 1
+poxhe; 1;e colkeghi;1;frequentare lo studio;1;ma rimarrò in smart; 1
+principalmente; 1;è difficile;1;ho nessun contatto;1;mascherina disinfezione se scambio; 1
+probabile; 1;è e;1;i clienti e;1;medici e in pazienti; 1
+probabilmente; 1;e fornitori;1;i medici e;1;mio lavoro ma aiuta; 1
+progetti; 1;e in;1;i progetti o;1;momento no ma ignoro; 1
+prossime; 1;è necessario;1;i tamponi è;1;necessario lavorare in contatto; 1
+pubblici; 1;e per;1;ignoro cosa deciderà;1;necessario per il mio; 1
+quindi; 1;e possibile;1;il mio lavoro;1;nel caso solo colleghi; 1
+restrizioni; 1;è possibile;1;il momento no;1;no ma ignoro cosa; 1
+ricerca; 1;e quindi;1;in pazienti sono;1;no only virtually meet; 1
+rider; 1;e spostamenti;1;in smart working;1;non è necessario per; 1
+rientrare; 1;e utenti;1;in smartworking e;1;non entro in contatto; 1
+rientro; 1;entrare in;1;in ufficio ma;1;non ho nessun contatto; 1
+rimarrò; 1;entro in;1;infermieri di ricerca;1;non lo so probabile; 1
+ripartirà; 1;essere contaminate;1;infette siccome non;1;non più sono in; 1
+ripresa; 1;fatti i;1;l'ateneo nelle prossime;1;non tornerò in ufficio; 1
+rischio; 1;figlia disabile;1;la ripresa delle;1;non vengono fatti i; 1
+sapere; 1;fornitori corrieri;1;la spesa non;1;only virtually meet them; 1
+scambio; 1;fornitori e;1;lavorare in contatto;1;pandemia non ho nessun; 1
+settimane; 1;fornitori rider;1;lavorative per ora;1;partner d i progetti; 1
+siccome; 1;frequentano l'ufficio;1;lavoro ma aiuta;1;pazienti sono persone a; 1
+sicuramente; 1;frequentare lo;1;lavoro non più;1;per il mio lavoro; 1
+smart; 1;ho nessun;1;lo è e;1;per il momento no; 1
+smartworking; 1;i clienti;1;lo so probabile;1;per la spesa non; 1
+so; 1;i medici;1;ma ignoro cosa;1;per questo credo che; 1
+soggetti; 1;i pazienti;1;ma rimarrò in;1;per svolgere alcune attività; 1
+sospese; 1;i progetti;1;mascherina disinfezione se;1;per tutelare mia figlia; 1
+spesa; 1;i tamponi;1;medici e in;1;persone a rischio e; 1
+sporadicamente; 1;ignoro cosa;1;mia figlia disabile;1;persone che possono essere; 1
+spostamenti; 1;il corriere;1;mio lavoro ma;1;più sono in smartworking; 1
+stato; 1;il mio;1;momento no ma;1;possibile con la ripresa; 1
+studio; 1;il momento;1;necessario lavorare in;1;potenzialmente infette siccome non; 1
+svolgere; 1;in azienda;1;necessario per il;1;probabilmente con persone guarite; 1
+tamponi; 1;in pazienti;1;nel caso solo;1;quando si ripartirà ci; 1
+them; 1;in smart;1;nelle prossime settimane;1;quando tornerò a frequentare; 1
+tutelare; 1;in smartworking;1;no ma ignoro;1;quando verranno diminuite le; 1
+urgenti; 1;incontri individuali;1;no only virtually;1;questo credo che non; 1
+uso; 1;infermieri di;1;non è necessario;1;quindi potenzialmente infette siccome; 1
+vengono; 1;infette siccome;1;non entro in;1;rimarrò in smart working; 1
+verranno; 1;l'ateneo nelle;1;non ho nessun;1;ripartirà ci saranno persone; 1
+virtually; 1;la ripresa;1;non lo so;1;ripresa delle attività quando; 1
+working; 1;la spesa;1;non più sono;1;rischio e quindi potenzialmente; 1
+NA;NA;lavorare in;1;non tornerò in;1;sapere chi lo è; 1
+NA;NA;lavorative per;1;non vengono fatti;1;sarà necessario lavorare in; 1
+NA;NA;lavoro ma;1;only virtually meet;1;saranno persone che possono; 1
+NA;NA;lavoro non;1;pandemia non ho;1;se scambio di oggetti; 1
+NA;NA;le restrizioni;1;partner d i;1;se si decidera di; 1
+NA;NA;lo è;1;pazienti e colleghi;1;si al rientro in; 1
+NA;NA;lo so;1;pazienti o colleghi;1;si clienti e colleghi; 1
+NA;NA;lo studio;1;pazienti sono persone;1;si colleghi e spostamenti; 1
+NA;NA;ma aiuta;1;pazienti urgenti colleghi;1;sì colleghi e utenti; 1
+NA;NA;ma ignoro;1;penso di si;1;si con i clienti; 1
+NA;NA;ma rimarrò;1;per il mio;1;si decidera di rientrare; 1
+NA;NA;mascherina disinfezione;1;per il momento;1;si i medici e; 1
+NA;NA;medici e;1;per la spesa;1;si infermieri di ricerca; 1
+NA;NA;meet them;1;per ora no;1;si pazienti e colleghi; 1
+NA;NA;mezzi pubblici;1;per ora sospese;1;si pazienti o colleghi; 1
+NA;NA;mia figlia;1;per questo credo;1;si per questo credo; 1
+NA;NA;mio lavoro;1;per svolgere alcune;1;sì quando tornerò a; 1
+NA;NA;momento no;1;per tutelare mia;1;si ripartirà ci saranno; 1
+NA;NA;momneto no;1;persone a rischio;1;siccome non vengono fatti; 1
+NA;NA;necessario lavorare;1;persone che possono;1;sicuramente quando si ripartirà; 1
+NA;NA;necessario per;1;più sono in;1;smart working per tutelare; 1
+NA;NA;nel caso;1;possibile con la;1;smartworking e per la; 1
+NA;NA;nelle prossime;1;possono essere contaminate;1;sono in smartworking e; 1
+NA;NA;nessun contatto;1;potenzialmente infette siccome;1;sono persone a rischio; 1
+NA;NA;no ma;1;probabilmente con persone;1;spesa non entro in; 1
+NA;NA;no only;1;progetti o industrie;1;spostamenti con mezzi pubblici; 1
+NA;NA;non credo;1;quando si ripartirà;1;studenti partner d i; 1
+NA;NA;non è;1;quando tornerò a;1;svolgere alcune attività lavorative; 1
+NA;NA;non entro;1;quando verranno diminuite;1;tamponi è difficile sapere; 1
+NA;NA;non ho;1;questo credo che;1;tornerò a frequentare lo; 1
+NA;NA;non lo;1;quindi potenzialmente infette;1;tornerò in ufficio ma; 1
+NA;NA;non penso;1;rientrare in azienda;1;tutelare mia figlia disabile; 1
+NA;NA;non più;1;rientro in ufficio;1;ufficio ma rimarrò in; 1
+NA;NA;non tornerò;1;rimarrò in smart;1;uso mascherina disinfezione se; 1
+NA;NA;non vengono;1;ripartirà ci saranno;1;vengono fatti i tamponi; 1
+NA;NA;o colleghi;1;ripresa delle attività;1;verranno diminuite le restrizioni; 1
+NA;NA;o industrie;1;rischio e quindi;1;working per tutelare mia; 1
+NA;NA;only virtually;1;sapere chi lo;1;NA;NA
+NA;NA;ora no;1;sarà necessario lavorare;1;NA;NA
+NA;NA;ora sospese;1;saranno persone che;1;NA;NA
+NA;NA;pandemia non;1;scambio di oggetti;1;NA;NA
+NA;NA;partner d;1;se scambio di;1;NA;NA
+NA;NA;pazienti e;1;se si decidera;1;NA;NA
+NA;NA;pazienti o;1;si al rientro;1;NA;NA
+NA;NA;pazienti sono;1;si clienti e;1;NA;NA
+NA;NA;pazienti urgenti;1;si colleghi e;1;NA;NA
+NA;NA;pazienti utenti;1;sì colleghi e;1;NA;NA
+NA;NA;penso di;1;si con i;1;NA;NA
+NA;NA;per la;1;si decidera di;1;NA;NA
+NA;NA;per questo;1;si i medici;1;NA;NA
+NA;NA;per svolgere;1;si i pazienti;1;NA;NA
+NA;NA;per tutelare;1;si infermieri di;1;NA;NA
+NA;NA;persone a;1;si pazienti e;1;NA;NA
+NA;NA;persone guarite;1;si pazienti o;1;NA;NA
+NA;NA;più sono;1;si per questo;1;NA;NA
+NA;NA;possibile con;1;sì quando tornerò;1;NA;NA
+NA;NA;possono essere;1;si ripartirà ci;1;NA;NA
+NA;NA;potenzialmente infette;1;siccome non vengono;1;NA;NA
+NA;NA;potenzialmente si;1;sicuramente quando si;1;NA;NA
+NA;NA;probabilmente con;1;smart working per;1;NA;NA
+NA;NA;progetti o;1;smartworking e per;1;NA;NA
+NA;NA;prossime settimane;1;solo incontri individuali;1;NA;NA
+NA;NA;può essere;1;sono in smartworking;1;NA;NA
+NA;NA;quando si;1;sono persone a;1;NA;NA
+NA;NA;quando tornerò;1;spesa non entro;1;NA;NA
+NA;NA;quando verranno;1;spostamenti con mezzi;1;NA;NA
+NA;NA;questo credo;1;studenti partner d;1;NA;NA
+NA;NA;quindi potenzialmente;1;svolgere alcune attività;1;NA;NA
+NA;NA;rider ecc;1;tamponi è difficile;1;NA;NA
+NA;NA;rientrare in;1;tornerò a frequentare;1;NA;NA
+NA;NA;rientro in;1;tornerò in ufficio;1;NA;NA
+NA;NA;rimarrò in;1;tutelare mia figlia;1;NA;NA
+NA;NA;ripartirà ci;1;ufficio ma rimarrò;1;NA;NA

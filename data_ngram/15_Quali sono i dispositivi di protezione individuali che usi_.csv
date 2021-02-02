@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+mascherina;277;mascherina chirurgica;138;chirurgica o mascherina;137;chirurgica o mascherina senza;137
+filtro;215;chirurgica o;137;mascherina chirurgica o;137;mascherina chirurgica o mascherina;137
+guanti;146;mascherina senza;137;mascherina senza filtro;137;o mascherina senza filtro;137
+chirurgica;138;o mascherina;137;o mascherina senza;137;gel e soluzioni igienizzanti;128
+senza;137;senza filtro;137;e soluzioni igienizzanti;128;guanti gel e soluzioni; 83
+gel;128;e soluzioni;128;gel e soluzioni;128;con filtro ffp1 ffp2; 78
+igienizzanti;128;gel e;128;guanti gel e; 83;filtro ffp1 ffp2 ffp3; 78
+soluzioni;128;soluzioni igienizzanti;128;con filtro ffp1; 78;mascherine con filtro ffp1; 78
+ffp1; 78;guanti gel; 83;ffp1 ffp2 ffp3; 78;mascherina senza filtro guanti; 75
+ffp2; 78;con filtro; 78;filtro ffp1 ffp2; 78;ffp1 ffp2 ffp3 guanti; 69
+ffp3; 78;ffp1 ffp2; 78;mascherine con filtro; 78;filtro guanti gel e; 51
+mascherine; 78;ffp2 ffp3; 78;senza filtro guanti; 75;senza filtro guanti gel; 51
+copri; 24;filtro ffp1; 78;ffp2 ffp3 guanti; 69;filtro mascherine con filtro; 44
+scarpe; 24;mascherine con; 78;filtro guanti gel; 51;mascherina senza filtro mascherine; 44
+integrale; 20;filtro guanti; 75;filtro mascherine con; 44;senza filtro mascherine con; 44
+tuta; 20;ffp3 guanti; 69;senza filtro mascherine; 44;ffp2 ffp3 guanti gel; 32
+nessuno; 13;filtro mascherine; 44;ffp3 guanti gel; 32;ffp3 guanti gel e; 32
+occhiali;  4;copri scarpe; 24;guanti copri scarpe; 23;integrale gel e soluzioni; 20
+camici;  3;guanti copri; 23;integrale gel e; 20;tuta integrale gel e; 20
+monouso;  3;integrale gel; 20;tuta integrale gel; 20;ffp2 ffp3 guanti copri; 19
+visiera;  3;tuta integrale; 20;ffp3 guanti copri; 19;ffp3 guanti copri scarpe; 19
+casa;  2;scarpe tuta; 16;copri scarpe tuta; 16;copri scarpe tuta integrale; 16
+caschetto;  2;di questi; 13;scarpe tuta integrale; 16;guanti copri scarpe tuta; 16
+solo;  2;nessuno di; 13;nessuno di questi; 13;scarpe tuta integrale gel; 16
+visiere;  2;scarpe gel;  8;copri scarpe gel;  8;copri scarpe gel e;  8
+ambienti;  1;filtro gel;  6;scarpe gel e;  8;scarpe gel e soluzioni;  8
+antiinfortunistiche;  1;ffp3 gel;  4;filtro gel e;  6;guanti copri scarpe gel;  7
+antiinfortunistici;  1;guanti tuta;  4;senza filtro gel;  6;filtro gel e soluzioni;  6
+bocca;  1;igienizzanti occhiali;  3;ffp2 ffp3 gel;  4;mascherina senza filtro gel;  6
+camice;  1;a casa;  2;ffp3 gel e;  4;senza filtro gel e;  6
+camicr;  1;e guanti;  2;ffp3 guanti tuta;  4;ffp1 ffp2 ffp3 gel;  4
+cappa;  1;igienizzanti camici;  2;filtro guanti copri;  4;ffp2 ffp3 gel e;  4
+caschi;  1;igienizzanti visiera;  2;guanti tuta integrale;  4;ffp2 ffp3 guanti tuta;  4
+cellophan;  1;igienizzanti visiere;  2;soluzioni igienizzanti occhiali;  3;ffp3 gel e soluzioni;  4
+chirurgico;  1;mascherina e;  2;mascherina e guanti;  2;ffp3 guanti tuta integrale;  4
+cibo;  1;a fare;  1;soluzioni igienizzanti camici;  2;filtro guanti copri scarpe;  4
+coprenti;  1;a tutto;  1;soluzioni igienizzanti visiera;  2;guanti tuta integrale gel;  4
+copricapo;  1;ai rifornimenti;  1;soluzioni igienizzanti visiere;  2;senza filtro guanti copri;  4
+coprinaso;  1;antiinfortunistiche occhiali;  1;a fare spesa;  1;e soluzioni igienizzanti occhiali;  3
+cuffia;  1;antiinfortunistici camici;  1;a tutto viso;  1;e soluzioni igienizzanti camici;  2
+dedicato;  1;camici coprenti;  1;ai rifornimenti di;  1;e soluzioni igienizzanti visiera;  2
+disponibili;  1;camici impermeabili;  1;antiinfortunistiche occhiali antiinfortunistici;  1;e soluzioni igienizzanti visiere;  2
+domiciliare;  1;camici monouso;  1;antiinfortunistici camici coprenti;  1;ai rifornimenti di cibo;  1
+esco;  1;camicr chirurgico;  1;camici coprenti in;  1;antiinfortunistiche occhiali antiinfortunistici camici;  1
+fare;  1;cappa con;  1;camicr chirurgico monouso;  1;antiinfortunistici camici coprenti in;  1
+giorno;  1;caschetto con;  1;cappa con rinforzo;  1;camici coprenti in sostituzione;  1
+impermeabili;  1;caschi con;  1;caschetto con visiera;  1;caschetto con visiera rigida;  1
+integrali;  1;chirurgica nel;  1;caschi con maschere;  1;caschi con maschere a;  1
+isolamento;  1;chirurgico monouso;  1;chirurgica nel giorno;  1;chirurgica nel giorno della;  1
+lavorando;  1;cibo medicinali;  1;con maschere a;  1;con maschere a tutto;  1
+lavoro;  1;con maschere;  1;con visiera rigida;  1;con visiera rigida coprinaso;  1
+maschere;  1;con rinforzo;  1;coprenti in sostituzione;  1;coprenti in sostituzione delle;  1
+medicinali;  1;con visiera;  1;copricapo cappa con;  1;copricapo cappa con rinforzo;  1
+necessari;  1;coprenti in;  1;coprinaso e bocca;  1;dedicato ai rifornimenti di;  1
+pellicola;  1;copricapo cappa;  1;dedicato ai rifornimenti;  1;della settimana dedicato ai;  1
+plastica;  1;coprinaso e;  1;della settimana dedicato;  1;delle tute integrali non;  1
+rifornimenti;  1;dedicato ai;  1;delle tute integrali;  1;di questi nessuno di;  1
+rigida;  1;della settimana;  1;di cibo medicinali;  1;di questi perché sono;  1
+rinforzo;  1;delle tute;  1;di questi nessuno;  1;di questi sto a;  1
+sanificatore;  1;di ambienti;  1;di questi perché;  1;e guanti se vado;  1
+settimana;  1;di cibo;  1;di questi sto;  1;e guanti solo se;  1
+smart;  1;e bocca;  1;e guanti se;  1;e soluzioni igienizzanti camicr;  1
+sostituzione;  1;fare spesa;  1;e guanti solo;  1;e soluzioni igienizzanti caschetto;  1
+sovracamice;  1;ffp3 copri;  1;ffp2 ffp3 copri;  1;e soluzioni igienizzanti lavorando;  1
+spesa;  1;ffp3 isolamento;  1;ffp2 ffp3 isolamento;  1;e soluzioni igienizzanti pellicola;  1
+tute;  1;giorno della;  1;ffp3 copri scarpe;  1;e soluzioni igienizzanti sanificatore;  1
+uscire;  1;guanti ma;  1;ffp3 isolamento domiciliare;  1;e soluzioni igienizzanti sovracamice;  1
+vado;  1;guanti se;  1;filtro guanti ma;  1;ffp1 ffp2 ffp3 copri;  1
+viso;  1;guanti solo;  1;giorno della settimana;  1;ffp1 ffp2 ffp3 isolamento;  1
+working;  1;igienizzanti camicr;  1;guanti ma non;  1;ffp2 ffp3 copri scarpe;  1
+NA;NA;igienizzanti caschetto;  1;guanti se vado;  1;ffp2 ffp3 isolamento domiciliare;  1
+NA;NA;igienizzanti lavorando;  1;guanti solo se;  1;ffp3 copri scarpe gel;  1
+NA;NA;igienizzanti pellicola;  1;igienizzanti camici impermeabili;  1;filtro guanti ma non;  1
+NA;NA;igienizzanti sanificatore;  1;igienizzanti camici monouso;  1;giorno della settimana dedicato;  1
+NA;NA;igienizzanti sovracamice;  1;igienizzanti camicr chirurgico;  1;guanti ma non per;  1
+NA;NA;in plastica;  1;igienizzanti caschetto con;  1;guanti se vado a;  1
+NA;NA;in smart;  1;igienizzanti lavorando in;  1;guanti solo se esco;  1
+NA;NA;in sostituzione;  1;igienizzanti occhiali camice;  1;igienizzanti camicr chirurgico monouso;  1
+NA;NA;integrali non;  1;igienizzanti occhiali caschi;  1;igienizzanti caschetto con visiera;  1
+NA;NA;isolamento domiciliare;  1;igienizzanti occhiali monouso;  1;igienizzanti lavorando in smart;  1
+NA;NA;lavorando in;  1;igienizzanti pellicola cellophan;  1;igienizzanti occhiali caschi con;  1
+NA;NA;lavoro solo;  1;igienizzanti sanificatore di;  1;igienizzanti occhiali monouso in;  1
+NA;NA;ma non;  1;igienizzanti sovracamice cuffia;  1;igienizzanti sanificatore di ambienti;  1
+NA;NA;maschere a;  1;igienizzanti visiera copricapo;  1;igienizzanti visiera copricapo cappa;  1
+NA;NA;monouso in;  1;igienizzanti visiere antiinfortunistiche;  1;igienizzanti visiere antiinfortunistiche occhiali;  1
+NA;NA;nel giorno;  1;in plastica o;  1;in plastica o caschetto;  1
+NA;NA;non disponibili;  1;in smart working;  1;in smart working non;  1
+NA;NA;non per;  1;in sostituzione delle;  1;in sostituzione delle tute;  1
+NA;NA;non sono;  1;integrali non disponibili;  1;lavorando in smart working;  1
+NA;NA;o caschetto;  1;lavorando in smart;  1;lavoro solo per uscire;  1
+NA;NA;occhiali antiinfortunistici;  1;lavoro solo per;  1;ma non per lavoro;  1
+NA;NA;occhiali camice;  1;ma non per;  1;maschere a tutto viso;  1
+NA;NA;occhiali caschi;  1;maschere a tutto;  1;mascherina chirurgica nel giorno;  1
+NA;NA;occhiali monouso;  1;mascherina chirurgica nel;  1;mascherina e guanti se;  1
+NA;NA;pellicola cellophan;  1;monouso in plastica;  1;mascherina e guanti solo;  1
+NA;NA;per lavoro;  1;nel giorno della;  1;monouso in plastica o;  1
+NA;NA;per uscire;  1;non per lavoro;  1;nel giorno della settimana;  1
+NA;NA;perché sono;  1;non sono necessari;  1;nessuno di questi nessuno;  1
+NA;NA;plastica o;  1;occhiali antiinfortunistici camici;  1;nessuno di questi perché;  1
+NA;NA;questi nessuno;  1;occhiali caschi con;  1;nessuno di questi sto;  1
+NA;NA;questi perché;  1;occhiali monouso in;  1;non per lavoro solo;  1
+NA;NA;questi sto;  1;per lavoro solo;  1;occhiali antiinfortunistici camici coprenti;  1
+NA;NA;rifornimenti di;  1;perché sono a;  1;occhiali caschi con maschere;  1
+NA;NA;rigida coprinaso;  1;plastica o caschetto;  1;occhiali monouso in plastica;  1
+NA;NA;sanificatore di;  1;questi nessuno di;  1;per lavoro solo per;  1
+NA;NA;se esco;  1;questi perché sono;  1;perché sono a casa;  1
+NA;NA;se vado;  1;questi sto a;  1;questi nessuno di questi;  1
+NA;NA;settimana dedicato;  1;rifornimenti di cibo;  1;questi perché sono a;  1
+NA;NA;smart working;  1;rigida coprinaso e;  1;questi sto a casa;  1
+NA;NA;solo per;  1;sanificatore di ambienti;  1;rifornimenti di cibo medicinali;  1
+NA;NA;solo se;  1;se vado a;  1;rigida coprinaso e bocca;  1
+NA;NA;sono a;  1;settimana dedicato ai;  1;se vado a fare;  1
+NA;NA;sono necessari;  1;smart working non;  1;senza filtro guanti ma;  1
+NA;NA;sostituzione delle;  1;solo per uscire;  1;settimana dedicato ai rifornimenti;  1
+NA;NA;sovracamice cuffia;  1;solo se esco;  1;smart working non sono;  1
+NA;NA;sto a;  1;soluzioni igienizzanti camicr;  1;soluzioni igienizzanti camici impermeabili;  1
+NA;NA;tute integrali;  1;soluzioni igienizzanti caschetto;  1;soluzioni igienizzanti camici monouso;  1
+NA;NA;tutto viso;  1;soluzioni igienizzanti lavorando;  1;soluzioni igienizzanti camicr chirurgico;  1
+NA;NA;vado a;  1;soluzioni igienizzanti pellicola;  1;soluzioni igienizzanti caschetto con;  1
+NA;NA;visiera copricapo;  1;soluzioni igienizzanti sanificatore;  1;soluzioni igienizzanti lavorando in;  1
+NA;NA;visiera rigida;  1;soluzioni igienizzanti sovracamice;  1;soluzioni igienizzanti occhiali camice;  1
+NA;NA;visiere antiinfortunistiche;  1;sono a casa;  1;soluzioni igienizzanti occhiali caschi;  1
+NA;NA;working non;  1;sostituzione delle tute;  1;soluzioni igienizzanti occhiali monouso;  1
+NA;NA;NA;NA;sto a casa;  1;soluzioni igienizzanti pellicola cellophan;  1
+NA;NA;NA;NA;tute integrali non;  1;soluzioni igienizzanti sanificatore di;  1
+NA;NA;NA;NA;vado a fare;  1;soluzioni igienizzanti sovracamice cuffia;  1
+NA;NA;NA;NA;visiera copricapo cappa;  1;soluzioni igienizzanti visiera copricapo;  1
+NA;NA;NA;NA;visiera rigida coprinaso;  1;soluzioni igienizzanti visiere antiinfortunistiche;  1
+NA;NA;NA;NA;visiere antiinfortunistiche occhiali;  1;sostituzione delle tute integrali;  1
+NA;NA;NA;NA;working non sono;  1;tute integrali non disponibili;  1
+NA;NA;NA;NA;NA;NA;vado a fare spesa;  1
+NA;NA;NA;NA;NA;NA;visiera copricapo cappa con;  1
+NA;NA;NA;NA;NA;NA;visiera rigida coprinaso e;  1
+NA;NA;NA;NA;NA;NA;visiere antiinfortunistiche occhiali antiinfortunistici;  1
+NA;NA;NA;NA;NA;NA;working non sono necessari;  1
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA

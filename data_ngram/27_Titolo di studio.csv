@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+laurea;126;laurea magistrale;30;dottorato di ricerca; 6;laurea magistrale in ingegneria; 4
+magistrale; 32;in ingegneria;10;laurea magistrale in; 5;in medicina e chirurgia; 3
+diploma; 17;laurea in;10;laurea medicina e; 5;laurea in medicina e; 3
+ingegneria; 14;medicina e; 8;medicina e chirurgia; 5;laurea medicina e specializzazione; 3
+dottorato; 13;di ricerca; 6;laurea in medicina; 4;magistrale in ingegneria dell'automazione; 3
+medicina; 11;dottorato di; 6;magistrale in ingegneria; 4;laurea medicina e chirurgia; 2
+superiore;  9;laurea medicina; 6;diploma scuola superiore; 3;laurea triennale in ingegneria; 2
+phd;  6;e chirurgia; 5;in ingegneria dell'automazione; 3;a ciclo unico in; 1
+ricerca;  6;in medicina; 5;in medicina e; 3;chimica e tecnologia farmaceutiche; 1
+chirurgia;  5;laurea triennale; 5;laurea in ingegneria; 3;ciclo unico in chimica; 1
+master;  5;magistrale in; 5;medicina e specializzazione; 3;comunicazione ed in finanza; 1
+triennale;  5;scuola superiore; 4;in ingegneria elettronica; 2;di ricerca in ingegneria; 1
+dell'automazione;  4;diploma scuola; 3;laurea triennale in; 2;diploma scientifico studentessa universitaria; 1
+media;  4;diploma superiore; 3;triennale in ingegneria; 2;diploma superiore e master; 1
+scuola;  4;e specializzazione; 3;1 livello informatica; 1;dottorato di ricerca in; 1
+informatica;  3;ingegneria dell'automazione; 3;a ciclo unico; 1;e dottorato di ricerca; 1
+ph.d;  3;diploma di; 2;anestesia e rianimazione; 1;e master in comunicazione; 1
+specializzazione;  3;dottore in; 2;chimica e tecnologia; 1;e specializzazione anestesia e; 1
+dottore;  2;e master; 2;ciclo unico in; 1;in chimica e tecnologia; 1
+elettronica;  2;in fisioterapia; 2;comunicazione ed in; 1;in comunicazione ed in; 1
+fisioterapia;  2;ingegneria elettronica; 2;di ricerca in; 1;in ingegneria dei sistemi; 1
+maturità;  2;laurea e; 2;diploma di geometra; 1;in scienze infermieristiche ed; 1
+post;  2;laurea specialistica; 2;diploma di laurea; 1;laurea 1 livello informatica; 1
+specialistica;  2;magistrale ingegneria; 2;diploma infermiera professionale; 1;laurea e dottorato di; 1
+terza;  2;terza media; 2;diploma scientifico studentessa; 1;laurea in ingegneria elettronica; 1
+1;  1;triennale in; 2;diploma superiore e; 1;laurea in ingegneria informatica; 1
+3;  1;1 livello; 1;dottore in fisioterapia; 1;laurea magistrale a ciclo; 1
+anestesia;  1;3 media; 1;dottore in medicina; 1;laurea magistrale e master; 1
+breve;  1;a ciclo; 1;e dottorato di; 1;laurea magistrale in scienze; 1
+chimica;  1;anestesia e; 1;e master in; 1;laurea magistrale ingegneria meccatronica; 1
+ciclo;  1;chimica e; 1;e specializzazione anestesia; 1;laurea specialistica ing informatica; 1
+classica;  1;ciclo unico; 1;e tecnologia farmaceutiche; 1;magistrale a ciclo unico; 1
+computer;  1;computer science; 1;ed in finanza; 1;magistrale in scienze infermieristiche; 1
+comunicazione;  1;comunicazione ed; 1;in chimica e; 1;master in comunicazione ed; 1
+dipolma;  1;dei sistemi; 1;in computer science; 1;medicina e specializzazione anestesia; 1
+dvm;  1;dell'automazione industriale; 1;in comunicazione ed; 1;phd in computer science; 1
+economia;  1;di geometra; 1;in ingegneria dei; 1;ricerca in ingegneria dei; 1
+elettronico;  1;di giurisprudenza; 1;in ingegneria informatica; 1;scientifico studentessa universitaria fuoricorso; 1
+farmaceutiche;  1;di laurea; 1;in ingegneria meccanica; 1;scienze infermieristiche ed ostetriche; 1
+finanza;  1;diploma infermiera; 1;in scienze infermieristiche; 1;specializzazione anestesia e rianimazione; 1
+fuoricorso;  1;diploma its; 1;infermieristiche ed ostetriche; 1;superiore e master in; 1
+geometra;  1;diploma scientifico; 1;ingegnere dell'automazione industriale; 1;triennale in ingegneria elettronica; 1
+gestionale;  1;diploma tecnico; 1;ingegneria dei sistemi; 1;triennale in ingegneria meccanica; 1
+giurisprudenza;  1;dipolma superiore; 1;laurea 1 livello; 1;unico in chimica e; 1
+industriale;  1;dvm phd; 1;laurea di giurisprudenza; 1;NA;NA
+inferiore;  1;e dottorato; 1;laurea e dottorato; 1;NA;NA
+infermiera;  1;e rianimazione; 1;laurea e soecializzazione; 1;NA;NA
+infermieristiche;  1;e soecializzazione; 1;laurea in economia; 1;NA;NA
+ing;  1;e tecnologia; 1;laurea in fisioterapia; 1;NA;NA
+ingegnere;  1;ed in; 1;laurea in matematica; 1;NA;NA
+istituto;  1;ed ostetriche; 1;laurea magistrale a; 1;NA;NA
+its;  1;in chimica; 1;laurea magistrale e; 1;NA;NA
+laure;  1;in computer; 1;laurea magistrale ingegneria; 1;NA;NA
+laureando;  1;in comunicazione; 1;laurea specialistica ing; 1;NA;NA
+laureato;  1;in economia; 1;laurea vecchio ordinamento; 1;NA;NA
+laurra;  1;in finanza; 1;magistrale a ciclo; 1;NA;NA
+liceo;  1;in matematica; 1;magistrale e master; 1;NA;NA
+livello;  1;in scienze; 1;magistrale in scienze; 1;NA;NA
+matematica;  1;infermiera professionale; 1;magistrale ingegneria meccatronica; 1;NA;NA
+meccanica;  1;infermieristiche ed; 1;master in comunicazione; 1;NA;NA
+meccatronica;  1;ing informatica; 1;master post universitario; 1;NA;NA
+medico;  1;ingegnere dell'automazione; 1;phd in computer; 1;NA;NA
+ordinamento;  1;ingegneria dei; 1;ricerca in ingegneria; 1;NA;NA
+ostetriche;  1;ingegneria gestionale; 1;scientifico studentessa universitaria; 1;NA;NA
+perito;  1;ingegneria informatica; 1;scienze infermieristiche ed; 1;NA;NA
+professionale;  1;ingegneria meccanica; 1;specialistica ing informatica; 1;NA;NA
+ragioneria;  1;ingegneria meccatronica; 1;specializzazione anestesia e; 1;NA;NA
+rianimazione;  1;istituto superiore; 1;studentessa universitaria fuoricorso; 1;NA;NA
+robotica;  1;laurea 1; 1;superiore e master; 1;NA;NA
+science;  1;laurea breve; 1;unico in chimica; 1;NA;NA
+scientifico;  1;laurea di; 1;NA;NA;NA;NA
+scienze;  1;laurea vecchio; 1;NA;NA;NA;NA
+scuole;  1;laurra magistrale; 1;NA;NA;NA;NA
+sistemi;  1;livello informatica; 1;NA;NA;NA;NA
+soecializzazione;  1;magistrale a; 1;NA;NA;NA;NA
+specialità;  1;magistrale e; 1;NA;NA;NA;NA
+studentessa;  1;master in; 1;NA;NA;NA;NA
+superiori;  1;master post; 1;NA;NA;NA;NA
+tecnico;  1;maturità classica; 1;NA;NA;NA;NA
+tecnologia;  1;media inferiore; 1;NA;NA;NA;NA
+unico;  1;perito elettronico; 1;NA;NA;NA;NA
+universitaria;  1;phd in; 1;NA;NA;NA;NA
+universitario;  1;phd robotica; 1;NA;NA;NA;NA
+vecchio;  1;post laurea; 1;NA;NA;NA;NA
+NA;NA;post universitario; 1;NA;NA;NA;NA
+NA;NA;ricerca in; 1;NA;NA;NA;NA
+NA;NA;scientifico studentessa; 1;NA;NA;NA;NA
+NA;NA;scienze infermieristiche; 1;NA;NA;NA;NA
+NA;NA;scuole superiori; 1;NA;NA;NA;NA
+NA;NA;specialistica ing; 1;NA;NA;NA;NA
+NA;NA;specialità master; 1;NA;NA;NA;NA
+NA;NA;specializzazione anestesia; 1;NA;NA;NA;NA
+NA;NA;studentessa universitaria; 1;NA;NA;NA;NA
+NA;NA;superiore e; 1;NA;NA;NA;NA
+NA;NA;tecnologia farmaceutiche; 1;NA;NA;NA;NA
+NA;NA;unico in; 1;NA;NA;NA;NA
+NA;NA;universitaria fuoricorso; 1;NA;NA;NA;NA
+NA;NA;vecchio ordinamento; 1;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA

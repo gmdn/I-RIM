@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+no;121;è precluso;4;a distanza ravvicinata;3;a distanza ravvicinata solo; 3
+sì;  8;mi è;4;attività che posso;3;attività che posso evitare; 3
+posso;  5;per pericolo;4;che posso evitare;3;che posso evitare che; 3
+solo;  5;a distanza;3;che sono a;3;che sono a distanza; 3
+distanza;  4;attività che;3;del pz e;3;del pz e mio; 3
+pericolo;  4;che posso;3;distanza ravvicinata solo;3;distanza ravvicinata solo se; 3
+precluso;  4;che sono;3;e mio tutte;3;e mio tutte quelle; 3
+attività;  3;del pz;3;è possibile procastinare;3;è precluso per pericolo; 3
+evitare;  3;distanza ravvicinata;3;è precluso per;3;evitare che sono a; 3
+possibile;  3;e mio;3;evitare che sono;3;mi è precluso per; 3
+procastinare;  3;è possibile;3;mi è precluso;3;mio tutte quelle attività; 3
+pz;  3;evitare che;3;mio tutte quelle;3;per pericolo del pz; 3
+ravvicinata;  3;mio tutte;3;per pericolo del;3;pericolo del pz e; 3
+tutte;  3;no ma;3;pericolo del pz;3;posso evitare che sono; 3
+applicabile;  2;pericolo del;3;posso evitare che;3;precluso per pericolo del; 3
+attualmente;  2;possibile procastinare;3;precluso per pericolo;3;pz e mio tutte; 3
+caso;  2;posso evitare;3;pz e mio;3;quelle attività che posso; 3
+contagio;  2;precluso per;3;quelle attività che;3;ravvicinata solo se è; 3
+devo;  2;pz e;3;ravvicinata solo se;3;se è possibile procastinare; 3
+guanti;  2;quelle attività;3;se è possibile;3;solo se è possibile; 3
+linea;  2;ravvicinata solo;3;solo se è;3;sono a distanza ravvicinata; 3
+mani;  2;se è;3;sono a distanza;3;tutte quelle attività che; 3
+mascherina;  2;solo se;3;tutte quelle attività;3;in linea di massima; 2
+massima;  2;sono a;3;di massima no;2;linea di massima no; 2
+oggetti;  2;tutte quelle;3;in linea di;2;1 mese uso guanti; 1
+protocollo;  2;di massima;2;linea di massima;2;a casa non ci; 1
+usare;  2;in linea;2;1 mese uso;1;abbiamo protocollo di disinfestazione; 1
+uso;  2;linea di;2;a casa non;1;accesso agli ambienti non; 1
+utilizzare;  2;massima no;2;abbiamo protocollo di;1;accortezze e dispositivi di; 1
+utilizzo;  2;non applicabile;2;accesso agli ambienti;1;agli ambienti non per; 1
+1;  1;non per;2;accortezze e dispositivi;1;all'interno dell'universita ora chiusa; 1
+2;  1;tutti i;2;agli ambienti non;1;alla biblioteca fisica sita; 1
+accesso;  1;1 mese;1;al momento no;1;ambienti non per pericolo; 1
+accortezze;  1;2 metri;1;all'interno dell'universita ora;1;applicabile nel mio caso; 1
+all'interno;  1;a casa;1;alla biblioteca fisica;1;aver toccato ogni oggetto; 1
+ambienti;  1;abbiamo protocollo;1;ambienti non per;1;azienda non tutti i; 1
+ausilio;  1;accesso agli;1;applicabile nel mio;1;basta che sia secondo; 1
+aver;  1;accortezze e;1;ausilio di protezioni;1;biblioteca fisica sita in; 1
+azienda;  1;agli ambienti;1;aver toccato ogni;1;casa non ci sono; 1
+basta;  1;al momento;1;azienda non tutti;1;causa smart working è; 1
+biblioteca;  1;all'interno dell'universita;1;basta che sia;1;che sia secondo protocollo; 1
+cantiere;  1;alla biblioteca;1;biblioteca fisica sita;1;chiesto di dover sterilizzare; 1
+casa;  1;ambienti non;1;casa non ci;1;ci sono oggetti pericolosi; 1
+causa;  1;applicabile nel;1;causa smart working;1;con ausilio di protezioni; 1
+chiesto;  1;attualmente chiuso;1;che sia secondo;1;con le dovute accortezze; 1
+chiusa;  1;attualmente sì;1;chiesto di dover;1;continua su tutti i; 1
+chiuso;  1;ausilio di;1;ci sono oggetti;1;cui questi possono essere; 1
+completamente;  1;aver toccato;1;con ausilio di;1;da 1 mese uso; 1
+continua;  1;azienda non;1;con corretti dpi;1;devo saperli usare e; 1
+corretti;  1;basta che;1;con le dovute;1;devo usarli lo stesso; 1
+costante;  1;biblioteca fisica;1;continua su tutti;1;devono usare presidi monouso; 1
+dell'universita;  1;cantiere no;1;costante dei guanti;1;di accesso agli ambienti; 1
+denaro;  1;casa non;1;cui questi possono;1;di disinfestazione continua su; 1
+devono;  1;caso no;1;da 1 mese;1;di dover sterilizzare tutto; 1
+digitale;  1;causa smart;1;da caso no;1;di laboratorio per l'impossibilità; 1
+disinfestazione;  1;che sia;1;dell'universita ora chiusa;1;di minimo 2 metri; 1
+disinfettante;  1;chiesto di;1;devo saperli usare;1;di riferimento sono disponibili; 1
+disinfettatisanificati;  1;ci sono;1;devo usarli lo;1;di utilizzare nonostante l; 1
+disponibili;  1;completamente sanificabili;1;devono usare presidi;1;disinfestazione continua su tutti; 1
+dispositivi;  1;con ausilio;1;di accesso agli;1;disinfettante mani l lavaggio; 1
+do;  1;con corretti;1;di disinfestazione continua;1;disponibili in formato digitale; 1
+dopo;  1;con le;1;di dover sterilizzare;1;distanza di minimo 2; 1
+dover;  1;continua su;1;di laboratorio per;1;do not use such; 1
+dovute;  1;corretti dpi;1;di minimo 2;1;dopo aver toccato ogni; 1
+dpi;  1;costante dei;1;di riferimento sono;1;dover sterilizzare tutto prima; 1
+ecc;  1;cui questi;1;di utilizzare nonostante;1;dovute accortezze e dispositivi; 1
+essere;  1;da 1;1;disinfestazione continua su;1;e con corretti dpi; 1
+esterno;  1;da caso;1;disinfettante mani l;1;e dispositivi di protezione; 1
+fisica;  1;dei guanti;1;disponibili in formato;1;e mascherina in esterno; 1
+for;  1;dell'universita ora;1;dispositivi di protezione;1;è precluso l’accesso alla; 1
+formato;  1;devo saperli;1;distanza di minimo;1;è stato chiesto di; 1
+gel;  1;devo usarli;1;do not use;1;ecc distanza di minimo; 1
+job;  1;devono usare;1;dopo aver toccato;1;esterno nuove procedure in; 1
+l'impossibilità;  1;di accesso;1;dover sterilizzare tutto;1;fisica sita in azienda; 1
+l’accesso;  1;di contagio;1;dovute accortezze e;1;gel disinfettante mani l; 1
+laboratorio;  1;di disinfestazione;1;e con corretti;1;guanti e mascherina in; 1
+lavaggio;  1;di dover;1;e dispositivi di;1;i do not use; 1
+lavorando;  1;di laboratorio;1;e mascherina in;1;i pc telefoni ecc; 1
+lavorare;  1;di minimo;1;è precluso l’accesso;1;i testi di riferimento; 1
+lavoro;  1;di protezione;1;e prendere precauzioni;1;in azienda non tutti; 1
+maniera;  1;di protezioni;1;è stato chiesto;1;in cui questi possono; 1
+mese;  1;di riferimento;1;ecc distanza di;1;in esterno nuove procedure; 1
+metri;  1;di utilizzare;1;esterno nuove procedure;1;in uff attualmente chiuso; 1
+minimo;  1;disinfestazione continua;1;fisica sita in;1;l utilizzo costante dei; 1
+mo;  1;disinfettante mani;1;for my job;1;l'impossibilità di accesso agli; 1
+momento;  1;disponibili in;1;gel disinfettante mani;1;l’accesso alla biblioteca fisica; 1
+monouso;  1;dispositivi di;1;guanti e mascherina;1;laboratorio per l'impossibilità di; 1
+my;  1;distanza di;1;i do not;1;lavorando da caso no; 1
+ni;  1;do not;1;i pc telefoni;1;lavorare solo a casa; 1
+nonostante;  1;dopo aver;1;i testi di;1;le dovute accortezze e; 1
+not;  1;dover sterilizzare;1;il mio lavoro;1;li usiamo con ausilio; 1
+nuove;  1;dovute accortezze;1;in azienda non;1;ma con le dovute; 1
+objects;  1;e con;1;in cantiere no;1;ma li usiamo con; 1
+oggetto;  1;e dispositivi;1;in cui questi;1;ma perche sono situati; 1
+ogni;  1;e mascherina;1;in esterno nuove;1;mani l lavaggio mani; 1
+ora;  1;e prendere;1;in formato digitale;1;maniera in cui questi; 1
+parte;  1;è stato;1;in uff attualmente;1;mascherina in esterno nuove; 1
+particolare;  1;ecc distanza;1;l lavaggio mani;1;mese uso guanti e; 1
+pc;  1;essere disinfettatisanificati;1;l utilizzo costante;1;mi è stato chiesto; 1
+perche;  1;esterno nuove;1;l'impossibilità di accesso;1;mi sono preclusi oggetti; 1
+perchè;  1;fisica sita;1;l’accesso alla biblioteca;1;monouso o completamente sanificabili; 1
+pericolosi;  1;for my;1;laboratorio per l'impossibilità;1;nella maniera in cui; 1
+possono;  1;formato digitale;1;lavorando da caso;1;no abbiamo protocollo di; 1
+precauzioni;  1;gel disinfettante;1;lavorare solo a;1;no basta che sia; 1
+preclusi;  1;guanti e;1;le dovute accortezze;1;no devo saperli usare; 1
+precuazioni;  1;i do;1;li usiamo con;1;no i do not; 1
+prendere;  1;i pc;1;lo stesso denaro;1;no ma con le; 1
+presidi;  1;i testi;1;ma con le;1;no ma li usiamo; 1
+prima;  1;il mio;1;ma li usiamo;1;no ma utilizzo precuazioni; 1
+procedure;  1;in azienda;1;ma perche sono;1;no nella maniera in; 1
+protezione;  1;in cantiere;1;ma utilizzo precuazioni;1;non applicabile nel mio; 1
+protezioni;  1;in cui;1;mani l lavaggio;1;non ci sono oggetti; 1
+raramente;  1;in esterno;1;maniera in cui;1;non per il mio; 1
+riferimento;  1;in formato;1;mascherina in esterno;1;non per pericolo di; 1
+rischio;  1;in parte;1;mese uso guanti;1;non posso utilizzare strumenti; 1
+robot;  1;in particolare;1;mi è stato;1;non tutti i testi; 1
+sanificabili;  1;in studio;1;mi sono preclusi;1;non uscendo in cantiere; 1
+saperli;  1;in uff;1;minimo 2 metri;1;nonostante l utilizzo costante; 1
+secondo;  1;l lavaggio;1;monouso o completamente;1;not use such objects; 1
+sita;  1;l utilizzo;1;nel mio caso;1;nuove procedure in studio; 1
+situati;  1;l'impossibilità di;1;nella maniera in;1;objects for my job; 1
+smart;  1;l’accesso alla;1;no abbiamo protocollo;1;oggetti per rischio contagio; 1
+stato;  1;laboratorio per;1;no basta che;1;oggetto uso gel disinfettante; 1
+sterilizzare;  1;lavaggio mani;1;no devo saperli;1;ogni oggetto uso gel; 1
+stesso;  1;lavorando da;1;no i do;1;pc telefoni ecc distanza; 1
+strumenti;  1;lavorare solo;1;no ma con;1;per il mio lavoro; 1
+studio;  1;le dovute;1;no ma li;1;per l'impossibilità di accesso; 1
+such;  1;li usiamo;1;no ma utilizzo;1;per pericolo di contagio; 1
+telefoni;  1;lo stesso;1;no nella maniera;1;perchè si devono usare; 1
+testi;  1;ma con;1;non applicabile nel;1;perche sono situati all'interno; 1
+toccato;  1;ma li;1;non ci sono;1;posso lavorare solo a; 1
+uff;  1;ma perche;1;non in particolare;1;posso utilizzare strumenti di; 1
+usarli;  1;ma utilizzo;1;non per il;1;preclusi oggetti per rischio; 1
+uscendo;  1;mani l;1;non per pericolo;1;precluso l’accesso alla biblioteca; 1
+use;  1;maniera in;1;non posso utilizzare;1;presidi monouso o completamente; 1
+usiamo;  1;mascherina in;1;non tutti i;1;prima di utilizzare nonostante; 1
+working;  1;mese uso;1;non uscendo in;1;protocollo di disinfestazione continua; 1
+NA;NA;mi sono;1;nonostante l utilizzo;1;protocollo e con corretti; 1
+NA;NA;minimo 2;1;not use such;1;quelli in uff attualmente; 1
+NA;NA;mio caso;1;nuove procedure in;1;questi possono essere disinfettatisanificati; 1
+NA;NA;mio lavoro;1;o completamente sanificabili;1;riferimento sono disponibili in; 1
+NA;NA;momento no;1;objects for my;1;robot ma perche sono; 1
+NA;NA;monouso o;1;oggetti per rischio;1;saperli usare e prendere; 1
+NA;NA;my job;1;oggetto uso gel;1;secondo protocollo e con; 1
+NA;NA;nel mio;1;ogni oggetto uso;1;si devono usare presidi; 1
+NA;NA;nella maniera;1;pc telefoni ecc;1;si perchè si devono; 1
+NA;NA;no abbiamo;1;per il mio;1;si robot ma perche; 1
+NA;NA;no basta;1;per l'impossibilità di;1;sia secondo protocollo e; 1
+NA;NA;no devo;1;per pericolo di;1;sita in azienda non; 1
+NA;NA;no i;1;per rischio contagio;1;situati all'interno dell'universita ora; 1
+NA;NA;no nella;1;perchè si devono;1;smart working è precluso; 1
+NA;NA;non ci;1;perche sono situati;1;solo a casa non; 1
+NA;NA;non in;1;pericolo di contagio;1;solo quelli in uff; 1
+NA;NA;non posso;1;posso lavorare solo;1;sono disponibili in formato; 1
+NA;NA;non tutti;1;posso utilizzare strumenti;1;sono preclusi oggetti per; 1
+NA;NA;non uscendo;1;possono essere disinfettatisanificati;1;sono situati all'interno dell'universita; 1
+NA;NA;nonostante l;1;preclusi oggetti per;1;stato chiesto di dover; 1
+NA;NA;not use;1;precluso l’accesso alla;1;sterilizzare tutto prima di; 1
+NA;NA;nuove procedure;1;presidi monouso o;1;strumenti di laboratorio per; 1
+NA;NA;o completamente;1;prima di utilizzare;1;su tutti i pc; 1
+NA;NA;objects for;1;procedure in studio;1;such objects for my; 1
+NA;NA;oggetti per;1;protocollo di disinfestazione;1;telefoni ecc distanza di; 1
+NA;NA;oggetti pericolosi;1;protocollo e con;1;testi di riferimento sono; 1
+NA;NA;oggetto uso;1;quelli in uff;1;toccato ogni oggetto uso; 1
+NA;NA;ogni oggetto;1;questi possono essere;1;tutti i pc telefoni; 1
+NA;NA;ora chiusa;1;riferimento sono disponibili;1;tutti i testi di; 1
+NA;NA;pc telefoni;1;robot ma perche;1;tutto prima di utilizzare; 1
+NA;NA;per il;1;saperli usare e;1;usare e prendere precauzioni; 1
+NA;NA;per l'impossibilità;1;secondo protocollo e;1;usare presidi monouso o; 1
+NA;NA;per rischio;1;si devono usare;1;usarli lo stesso denaro; 1
+NA;NA;perchè si;1;si perchè si;1;uscendo in cantiere no; 1
+NA;NA;perche sono;1;si robot ma;1;use such objects for; 1
+NA;NA;pericolo di;1;sia secondo protocollo;1;usiamo con ausilio di; 1
+NA;NA;posso lavorare;1;sita in azienda;1;uso gel disinfettante mani; 1
+NA;NA;posso utilizzare;1;situati all'interno dell'universita;1;uso guanti e mascherina; 1
+NA;NA;possono essere;1;smart working è;1;utilizzare nonostante l utilizzo; 1
+NA;NA;preclusi oggetti;1;solo a casa;1;utilizzare strumenti di laboratorio; 1
+NA;NA;precluso l’accesso;1;solo quelli in;1;utilizzo costante dei guanti; 1
+NA;NA;prendere precauzioni;1;sono disponibili in;1;working è precluso l’accesso; 1
+NA;NA;presidi monouso;1;sono oggetti pericolosi;1;NA;NA
+NA;NA;prima di;1;sono preclusi oggetti;1;NA;NA
+NA;NA;procedure in;1;sono situati all'interno;1;NA;NA
+NA;NA;protocollo di;1;stato chiesto di;1;NA;NA
+NA;NA;protocollo e;1;sterilizzare tutto prima;1;NA;NA
+NA;NA;quelli in;1;strumenti di laboratorio;1;NA;NA
+NA;NA;questi possono;1;su tutti i;1;NA;NA
+NA;NA;riferimento sono;1;such objects for;1;NA;NA
+NA;NA;rischio contagio;1;telefoni ecc distanza;1;NA;NA
+NA;NA;robot ma;1;testi di riferimento;1;NA;NA
+NA;NA;saperli usare;1;toccato ogni oggetto;1;NA;NA
+NA;NA;secondo protocollo;1;tutti i pc;1;NA;NA
+NA;NA;si devono;1;tutti i testi;1;NA;NA
+NA;NA;si perchè;1;tutto prima di;1;NA;NA
+NA;NA;si robot;1;uff attualmente chiuso;1;NA;NA
+NA;NA;sia secondo;1;usare e prendere;1;NA;NA
+NA;NA;sita in;1;usare presidi monouso;1;NA;NA
+NA;NA;situati all'interno;1;usarli lo stesso;1;NA;NA
+NA;NA;smart working;1;uscendo in cantiere;1;NA;NA
+NA;NA;solo a;1;use such objects;1;NA;NA
+NA;NA;solo quelli;1;usiamo con ausilio;1;NA;NA

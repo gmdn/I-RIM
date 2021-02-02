@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+grazie;123;no grazie;123;manderò una email;59;si manderò una email;59
+no;123;manderò una; 59;si manderò una;59;attivo in lombardia disponibile; 1
+email; 59;si manderò; 59;attivo in lombardia; 1;attualmente responsabile di un; 1
+manderò; 59;una email; 59;attualmente responsabile di; 1;avrò buone idee volentieri; 1
+credo;  3;non credo;  2;avrò buone idee; 1;avviserà il mio capo; 1
+essere;  2;attivo in;  1;avviserà il mio; 1;callcenter di medici volontari; 1
+sempre;  2;attualmente responsabile;  1;buone idee volentieri; 1;cambi questa mentalità ottusa; 1
+attivo;  1;avrò buone;  1;callcenter di medici; 1;capito per fare cosa; 1
+attualmente;  1;avviserà il;  1;cambi questa mentalità; 1;capo dellapresenza di questo; 1
+avviserà;  1;buone idee;  1;capito per fare; 1;cercare di modificare le; 1
+bene;  1;callcenter di;  1;capo dellapresenza di; 1;che cambi questa mentalità; 1
+buone;  1;cambi questa;  1;cercare di modificare; 1;che potrei essere di; 1
+callcenter;  1;capito per;  1;che cambi questa; 1;cose ma sono sempre; 1
+cambi;  1;capo dellapresenza;  1;che ho proposto; 1;credo che potrei essere; 1
+capito;  1;cercare di;  1;che potrei essere; 1;credo più che cambi; 1
+capo;  1;che cambi;  1;cose ma sono; 1;credo possa essere interessante; 1
+cercare;  1;che ho;  1;credo che potrei; 1;da sempre x cercare; 1
+cosa;  1;che potrei;  1;credo più che; 1;dellapresenza di questo questionario; 1
+cose;  1;cose ma;  1;credo possa essere; 1;di medici volontari attivo; 1
+dellapresenza;  1;credo che;  1;da sempre x; 1;di modificare le cose; 1
+disponibile;  1;credo più;  1;dellapresenza di questo; 1;di questo questionario credo; 1
+fare;  1;credo possa;  1;di medici volontari; 1;di un callcenter di; 1
+fattibile;  1;da sempre;  1;di modificare le; 1;fattibile quello che ho; 1
+idee;  1;dellapresenza di;  1;di questo questionario; 1;ho capito per fare; 1
+interessante;  1;di medici;  1;di un callcenter; 1;ho lottato da sempre; 1
+lombardia;  1;di modificare;  1;disponibile se richiesto; 1;ho tempo lo farò; 1
+lottato;  1;di questo;  1;essere di utilità; 1;il mio capo dellapresenza; 1
+medici;  1;di un;  1;fattibile quello che; 1;in lombardia disponibile se; 1
+mentalità;  1;di utilità;  1;ho capito per; 1;le cose ma sono; 1
+modificare;  1;disponibile se;  1;ho lottato da; 1;lombardia disponibile se richiesto; 1
+oggi;  1;essere di;  1;ho tempo lo; 1;lottato da sempre x; 1
+ostacolato;  1;essere interessante;  1;il mio capo; 1;ma sono sempre stato; 1
+ottusa;  1;fare cosa;  1;in lombardia disponibile; 1;medici volontari attivo in; 1
+possa;  1;fattibile quello;  1;le cose ma; 1;mio capo dellapresenza di; 1
+potrei;  1;ho capito;  1;lombardia disponibile se; 1;modificare le cose ma; 1
+proposto;  1;ho lottato;  1;lottato da sempre; 1;non credo che potrei; 1
+questionario;  1;ho proposto;  1;ma sono sempre; 1;non credo più che; 1
+responsabile;  1;ho tempo;  1;medici volontari attivo; 1;non ho capito per; 1
+richiesto;  1;idee volentieri;  1;mio capo dellapresenza; 1;non so quanto sia; 1
+so;  1;il mio;  1;modificare le cose; 1;oggi non credo più; 1
+stato;  1;in lombardia;  1;non credo che; 1;ostacolato oggi non credo; 1
+tempo;  1;le cose;  1;non credo più; 1;più che cambi questa; 1
+utilità;  1;lo farò;  1;non ho capito; 1;potrei essere di utilità; 1
+va;  1;lombardia disponibile;  1;non so quanto; 1;quanto sia fattibile quello; 1
+volentieri;  1;lottato da;  1;oggi non credo; 1;quello che ho proposto; 1
+volontari;  1;ma sono;  1;ostacolato oggi non; 1;questionario credo possa essere; 1
+x;  1;medici volontari;  1;per fare cosa; 1;questo questionario credo possa; 1
+NA;NA;mentalità ottusa;  1;più che cambi; 1;responsabile di un callcenter; 1
+NA;NA;mio capo;  1;possa essere interessante; 1;se avrò buone idee; 1
+NA;NA;modificare le;  1;potrei essere di; 1;se ho tempo lo; 1
+NA;NA;non ho;  1;quanto sia fattibile; 1;sempre stato ostacolato oggi; 1
+NA;NA;non so;  1;quello che ho; 1;sempre x cercare di; 1
+NA;NA;oggi non;  1;questa mentalità ottusa; 1;sia fattibile quello che; 1
+NA;NA;ostacolato oggi;  1;questionario credo possa; 1;so quanto sia fattibile; 1
+NA;NA;per fare;  1;questo questionario credo; 1;sono sempre stato ostacolato; 1
+NA;NA;più che;  1;responsabile di un; 1;stato ostacolato oggi non; 1
+NA;NA;possa essere;  1;se avrò buone; 1;un callcenter di medici; 1
+NA;NA;potrei essere;  1;se ho tempo; 1;volontari attivo in lombardia; 1
+NA;NA;quanto sia;  1;sempre stato ostacolato; 1;x cercare di modificare; 1
+NA;NA;quello che;  1;sempre x cercare; 1;NA;NA
+NA;NA;questa mentalità;  1;sia fattibile quello; 1;NA;NA
+NA;NA;questionario credo;  1;so quanto sia; 1;NA;NA
+NA;NA;questo questionario;  1;sono sempre stato; 1;NA;NA
+NA;NA;responsabile di;  1;stato ostacolato oggi; 1;NA;NA
+NA;NA;se avrò;  1;tempo lo farò; 1;NA;NA
+NA;NA;se ho;  1;un callcenter di; 1;NA;NA
+NA;NA;se richiesto;  1;volontari attivo in; 1;NA;NA
+NA;NA;sempre stato;  1;x cercare di; 1;NA;NA
+NA;NA;sempre x;  1;NA;NA;NA;NA
+NA;NA;sia fattibile;  1;NA;NA;NA;NA
+NA;NA;so quanto;  1;NA;NA;NA;NA
+NA;NA;sono sempre;  1;NA;NA;NA;NA
+NA;NA;stato ostacolato;  1;NA;NA;NA;NA
+NA;NA;tempo lo;  1;NA;NA;NA;NA
+NA;NA;un callcenter;  1;NA;NA;NA;NA
+NA;NA;va bene;  1;NA;NA;NA;NA
+NA;NA;volontari attivo;  1;NA;NA;NA;NA
+NA;NA;x cercare;  1;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA

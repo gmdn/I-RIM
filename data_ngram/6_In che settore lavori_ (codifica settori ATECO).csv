@@ -1,0 +1,201 @@
+unigram;n...2;bigram;n...4;trigram;n...6;quadgram;n...8
+attività;46;86 assistenza;44;86 assistenza sanitaria;44;72 ricerca scientifica e;28
+assistenza;45;assistenza sanitaria;44;72 ricerca scientifica;28;ricerca scientifica e sviluppo;28
+86;44;72 ricerca;28;ricerca scientifica e;28;74 attività professionali scientifiche;13
+sanitaria;44;e sviluppo;28;scientifica e sviluppo;28;attività professionali scientifiche e;13
+sviluppo;29;ricerca scientifica;28;74 attività professionali;13;professionali scientifiche e tecniche;13
+72;28;scientifica e;28;attività professionali scientifiche;13;69 attività legali e; 8
+ricerca;28;74 attività;13;professionali scientifiche e;13;70 attività di direzione; 8
+scientifica;28;85 istruzione;13;scientifiche e tecniche;13;attività di direzione aziendali; 8
+tecniche;19;attività professionali;13;69 attività legali; 8;attività legali e contabili; 8
+professionali;15;e tecniche;13;70 attività di; 8;aziendali e di consulenza; 8
+74;13;professionali scientifiche;13;attività di direzione; 8;contabili 70 attività di; 8
+85;13;scientifiche e;13;attività legali e; 8;di direzione aziendali e; 8
+istruzione;13;attività di;12;aziendali e di; 8;direzione aziendali e di; 8
+scientifiche;13;installazione di;12;contabili 70 attività; 8;e contabili 70 attività; 8
+installazione;12;di consulenza;10;di consulenza gestionale; 8;e di consulenza gestionale; 8
+manutenzione;11;e di; 9;di direzione aziendali; 8;legali e contabili 70; 8
+consulenza;10;69 attività; 8;direzione aziendali e; 8;33 riparazione manutenzione installazione; 6
+riparazione; 9;70 attività; 8;e contabili 70; 8;43.2 installazione di impianti; 6
+69; 8;attività legali; 8;e di consulenza; 8;64 a 66 attività; 6
+70; 8;aziendali e; 8;legali e contabili; 8;66 attività finanziarie e; 6
+altri; 8;consulenza gestionale; 8;33 riparazione manutenzione; 6;71 attività degli studi; 6
+apparecchiature; 8;contabili 70; 8;43.2 installazione di; 6;a 66 attività finanziarie; 6
+aziendali; 8;di direzione; 8;64 a 66; 6;a domicilio 43.2 installazione; 6
+contabili; 8;direzione aziendali; 8;66 attività finanziarie; 6;altri lavori di costruzioni; 6
+direzione; 8;e contabili; 8;71 attività degli; 6;apparecchiature a domicilio 43.2; 6
+gestionale; 8;legali e; 8;a 66 attività; 6;architettura e d'ingegneria collaudi; 6
+legali; 8;di macchine; 7;a domicilio 43.2; 6;attività degli studi di; 6
+servizi; 8;servizi di; 7;altri lavori di; 6;attività finanziarie e assicurative; 6
+macchine; 7;33 riparazione; 6;apparecchiature a domicilio; 6;collaudi ed analisi tecniche; 6
+33; 6;43.2 installazione; 6;architettura e d'ingegneria; 6;d'ingegneria collaudi ed analisi; 6
+43.2; 6;64 a; 6;attività degli studi; 6;da 64 a 66; 6
+64; 6;66 attività; 6;attività finanziarie e; 6;degli studi di architettura; 6
+66; 6;71 attività; 6;collaudi ed analisi; 6;di architettura e d'ingegneria; 6
+71; 6;a 66; 6;costruzioni e installazioni; 6;di costruzioni e installazioni; 6
+analisi; 6;a domicilio; 6;d'ingegneria collaudi ed; 6;di impianti elettrici idraulici; 6
+architettura; 6;altri lavori; 6;da 64 a; 6;di macchine e apparecchiature; 6
+assicurative; 6;analisi tecniche; 6;degli studi di; 6;domicilio 43.2 installazione di; 6
+collaudi; 6;apparecchiature a; 6;di architettura e; 6;e altri lavori di; 6
+costruzioni; 6;architettura e; 6;di costruzioni e; 6;e apparecchiature a domicilio; 6
+d'ingegneria; 6;attività degli; 6;di impianti elettrici; 6;e d'ingegneria collaudi ed; 6
+domicilio; 6;attività finanziarie; 6;di macchine e; 6;elettrici idraulici e altri; 6
+elettrici; 6;collaudi ed; 6;domicilio 43.2 installazione; 6;idraulici e altri lavori; 6
+finanziarie; 6;costruzioni e; 6;e altri lavori; 6;impianti elettrici idraulici e; 6
+idraulici; 6;d'ingegneria collaudi; 6;e apparecchiature a; 6;installazione di impianti elettrici; 6
+impianti; 6;da 64; 6;e d'ingegneria collaudi; 6;installazione di macchine e; 6
+installazioni; 6;degli studi; 6;ed analisi tecniche; 6;k da 64 a; 6
+k; 6;di architettura; 6;elettrici idraulici e; 6;lavori di costruzioni e; 6
+lavori; 6;di costruzioni; 6;finanziarie e assicurative; 6;macchine e apparecchiature a; 6
+studi; 6;di impianti; 6;idraulici e altri; 6;manutenzione installazione di macchine; 6
+trasporto; 6;domicilio 43.2; 6;impianti elettrici idraulici; 6;riparazione manutenzione installazione di; 6
+58; 5;e altri; 6;installazione di impianti; 6;studi di architettura e; 6
+63; 5;e apparecchiature; 6;installazione di macchine; 6;58 a 63 servizi; 5
+84; 5;e assicurative; 6;k da 64; 6;63 servizi di informazione; 5
+amministrazione; 5;e d'ingegneria; 6;lavori di costruzioni; 6;84 amministrazione pubblica e; 5
+assicurazione; 5;e installazioni; 6;macchine e apparecchiature; 6;a 63 servizi di; 5
+comunicazione; 5;ed analisi; 6;manutenzione installazione di; 6;amministrazione pubblica e difesa; 5
+difesa; 5;elettrici idraulici; 6;riparazione manutenzione installazione; 6;da 58 a 63; 5
+informazione; 5;finanziarie e; 6;studi di architettura; 6;di informazione e comunicazione; 5
+j; 5;idraulici e; 6;58 a 63; 5;difesa assicurazione sociale obbligatoria; 5
+obbligatoria; 5;impianti elettrici; 6;63 servizi di; 5;e difesa assicurazione sociale; 5
+pubblica; 5;k da; 6;84 amministrazione pubblica; 5;j da 58 a; 5
+sociale; 5;lavori di; 6;a 63 servizi; 5;pubblica e difesa assicurazione; 5
+fabbricazione; 4;macchine e; 6;amministrazione pubblica e; 5;servizi di informazione e; 5
+10; 2;manutenzione installazione; 6;assicurazione sociale obbligatoria; 5;10 industrie alimentari 11; 2
+11; 2;riparazione manutenzione; 6;da 58 a; 5;11 industria delle bevande; 2
+28.99.2; 2;studi di; 6;di informazione e; 5;49 trasporto terrestre e; 2
+49; 2;58 a; 5;difesa assicurazione sociale; 5;50 trasporto marittimo e; 2
+50; 2;63 servizi; 5;e difesa assicurazione; 5;55.1 alberghi e strutture; 2
+55.1; 2;84 amministrazione; 5;informazione e comunicazione; 5;82.99.99 altri servizi di; 2
+82.99.99; 2;a 63; 5;j da 58; 5;94 attività di organizzazioni; 2
+94; 2;amministrazione pubblica; 5;pubblica e difesa; 5;alberghi e strutture simili; 2
+alberghi; 2;assicurazione sociale; 5;servizi di informazione; 5;alimentari 11 industria delle; 2
+alimentari; 2;da 58; 5;10 industrie alimentari; 2;altri servizi di sostegno; 2
+ateco; 2;di informazione; 5;11 industria delle; 2;attività di organizzazioni economiche; 2
+aziendale; 2;difesa assicurazione; 5;49 trasporto terrestre; 2;condotte 50 trasporto marittimo; 2
+bevande; 2;e comunicazione; 5;50 trasporto marittimo; 2;datori di lavoro e; 2
+commercio; 2;e difesa; 5;55.1 alberghi e; 2;di datori di lavoro; 2
+condotte; 2;informazione e; 5;82.99.99 altri servizi; 2;di lavoro e professionali; 2
+d'acqua; 2;j da; 5;94 attività di; 2;di organizzazioni economiche di; 2
+datori; 2;pubblica e; 5;alberghi e strutture; 2;di sostegno alle imprese; 2
+economiche; 2;sociale obbligatoria; 5;alimentari 11 industria; 2;e per vie d'acqua; 2
+fornitura; 2;fabbricazione di; 3;altri servizi di; 2;e trasporto mediante condotte; 2
+imprese; 2;10 industrie; 2;apparecchiature per le; 2;economiche di datori di; 2
+industria; 2;11 industria; 2;attività di organizzazioni; 2;industriali per usi molteplici; 2
+industriali; 2;28.99.2 fabbricazione; 2;condotte 50 trasporto; 2;industrie alimentari 11 industria; 2
+industrie; 2;49 trasporto; 2;datori di lavoro; 2;manutenzione e riparazione di; 2
+lavoro; 2;50 trasporto; 2;di consulenza aziendale; 2;marittimo e per vie; 2
+marittimo; 2;55.1 alberghi; 2;di datori di; 2;mediante condotte 50 trasporto; 2
+mediante; 2;82.99.99 altri; 2;di lavoro e; 2;organizzazioni economiche di datori; 2
+molteplici; 2;94 attività; 2;di organizzazioni economiche; 2;professionale di consulenza aziendale; 2
+organizzazioni; 2;alberghi e; 2;di sostegno alle; 2;robot industriali per usi; 2
+parti; 2;alimentari 11; 2;e per vie; 2;servizi di sostegno alle; 2
+poste; 2;alle imprese; 2;e riparazione di; 2;studio professionale di consulenza; 2
+prodotti; 2;altri servizi; 2;e strutture simili; 2;terrestre e trasporto mediante; 2
+produzione; 2;apparecchiature per; 2;e trasporto mediante; 2;trasporto marittimo e per; 2
+professionale; 2;condotte 50; 2;economiche di datori; 2;trasporto mediante condotte 50; 2
+raccolta; 2;consulenza aziendale; 2;industria delle bevande; 2;trasporto terrestre e trasporto; 2
+robot; 2;datori di; 2;industriali per usi; 2;1 coltivazioni agricole e; 1
+settore; 2;delle bevande; 2;industrie alimentari 11; 2;20 fabbricazione di prodotti; 1
+simili; 2;di datori; 2;lavoro e professionali; 2;26 fabbricazione di apparecchiature; 1
+sostegno; 2;di lavoro; 2;manutenzione e riparazione; 2;28.99.2 fabbricazione di robot; 1
+strutture; 2;di organizzazioni; 2;marittimo e per; 2;28.99.2 fabbricazione do robot; 1
+studio; 2;di prodotti; 2;mediante condotte 50; 2;3 pesca e acquacoltura; 1
+terrestre; 2;di sostegno; 2;organizzazioni economiche di; 2;35 fornitura di energia; 1
+trattamento; 2;e manutenzione; 2;per usi molteplici; 2;36 raccolta trattamento e; 1
+usi; 2;e per; 2;per vie d'acqua; 2;37 gestione delle reti; 1
+vie; 2;e professionali; 2;professionale di consulenza; 2;38 attività di raccolta; 1
+1; 1;e riparazione; 2;raccolta trattamento e; 2;45.2 455.3 manutenzione e; 1
+20; 1;e strutture; 2;robot industriali per; 2;45.4 per la sola; 1
+26; 1;e trasporto; 2;servizi di sostegno; 2;455.3 manutenzione e riparazione; 1
+3; 1;economiche di; 2;sostegno alle imprese; 2;81.3 cura e manutenzione; 1
+32.99.1; 1;fornitura di; 2;studio professionale di; 2;95.12.09 riparazione e manutenzione; 1
+35; 1;industria delle; 2;terrestre e trasporto; 2;abbonamenti parcheggio a pagamento; 1
+36; 1;industriali per; 2;trasporto marittimo e; 2;acqua 38 attività di; 1
+37; 1;industrie alimentari; 2;trasporto mediante condotte; 2;agricole e produzione di; 1
+38; 1;lavoro e; 2;trasporto terrestre e; 2;altre apparecchiature per le; 1
+42; 1;manutenzione e; 2;1 coltivazioni agricole; 1;animali 3 pesca e; 1
+45.2; 1;marittimo e; 2;20 fabbricazione di; 1;apparecchiature per le comunicazioni; 1
+45.4; 1;mediante condotte; 2;26 fabbricazione di; 1;apparecchiature per le telecomunicazioni; 1
+455.3; 1;organizzazioni economiche; 2;28.99.2 fabbricazione di; 1;aria condizionata 37 gestione; 1
+46; 1;per le; 2;28.99.2 fabbricazione do; 1;ateco 81.3 cura e; 1
+81.3; 1;per usi; 2;3 pesca e; 1;attività culturali settore terziario; 1
+95.12.09; 1;per vie; 2;35 fornitura di; 1;attività di manutenzione e; 1
+abbonamenti; 1;professionale di; 2;36 raccolta trattamento; 1;attività di raccolta trattamento; 1
+accessori; 1;raccolta trattamento; 2;37 gestione delle; 1;automatiche per l'industria automotive; 1
+acqua; 1;riparazione di; 2;38 attività di; 1;automotive e di consumer; 1
+acquacoltura; 1;robot industriali; 2;42 ingegneria civile; 1;autoveicoli 45.4 per la; 1
+aeromobili; 1;sostegno alle; 2;45.2 455.3 manutenzione; 1;codice ateco 81.3 cura; 1
+agente; 1;strutture simili; 2;45.4 per la; 1;coltivazioni agricole e produzione; 1
+agricole; 1;studio professionale; 2;455.3 manutenzione e; 1;commercio di relative parti; 1
+all'ingrosso; 1;terrestre e; 2;46 commercio all'ingrosso; 1;condizionata 37 gestione delle; 1
+altre; 1;trasporto marittimo; 2;81.3 cura e; 1;costruzione di macchine automatiche; 1
+animali; 1;trasporto mediante; 2;95.12.09 riparazione e; 1;cura e manutenzione del; 1
+aria; 1;trasporto terrestre; 2;abbonamenti parcheggio a; 1;dei rifiuti recupero dei; 1
+automatiche; 1;trattamento e; 2;acqua 38 attività; 1;di acqua 38 attività; 1
+automotive; 1;usi molteplici; 2;agricole e produzione; 1;di altre apparecchiature per; 1
+autoveicoli; 1;vie d'acqua; 2;altre apparecchiature per; 1;di apparecchiature per le; 1
+base; 1;1 coltivazioni; 1;animali 3 pesca; 1;di autoveicoli 45.4 per; 1
+chimici; 1;20 fabbricazione; 1;aria condizionata 37; 1;di energia elettrica gas; 1
+civile; 1;26 fabbricazione; 1;ateco 81.3 cura; 1;di macchine automatiche per; 1
+codice; 1;3 pesca; 1;attività culturali settore; 1;di manutenzione e riparazione; 1
+coltivazioni; 1;35 fornitura; 1;attività di manutenzione; 1;di motocicli e commercio; 1
+commercializzazione; 1;36 raccolta; 1;attività di raccolta; 1;di prodotti animali 3; 1
+comunicazioni; 1;37 gestione; 1;automatiche per l'industria; 1;di raccolta trattamento e; 1
+condizionata; 1;38 attività; 1;automotive e di; 1;di robot industriali per; 1
+consumer; 1;42 ingegneria; 1;autoveicoli 45.4 per; 1;disegno e costruzione di; 1
+costruzione; 1;45.2 455.3; 1;codice ateco 81.3; 1;dispositivi elettromedicali commercializzazione e; 1
+culturali; 1;45.4 per; 1;coltivazioni agricole e; 1;do robot industriali per; 1
+cura; 1;455.3 manutenzione; 1;commercializzazione e assistenza; 1;e aria condizionata 37; 1
+designer; 1;46 commercio; 1;commercio di relative; 1;e commercio di relative; 1
+desk; 1;81.3 cura; 1;condizionata 37 gestione; 1;e costruzione di macchine; 1
+disegno; 1;95.12.09 riparazione; 1;costruzione di macchine; 1;e di consumer products; 1
+dispositivi; 1;a pagamento; 1;culturali settore terziario; 1;e fornitura di acqua; 1
+do; 1;abbonamenti parcheggio; 1;cura e manutenzione; 1;e manutenzione del paesaggio; 1
+elettrica; 1;acqua 38; 1;dei rifiuti recupero; 1;e manutenzione di altre; 1
+elettromedicali; 1;agente immobiliare; 1;delle reti fognarie; 1;e produzione di prodotti; 1
+energia; 1;agricole e; 1;desk settore lapideo; 1;e riparazione di autoveicoli; 1
+estetica; 1;altre apparecchiature; 1;di acqua 38; 1;e riparazione di motocicli; 1
+farmacia; 1;animali 3; 1;di altre apparecchiature; 1;e smaltimento dei rifiuti; 1
+farmacista; 1;aria condizionata; 1;di apparecchiature per; 1;elettrica gas vapore e; 1
+fognarie; 1;ateco 32.99.1; 1;di autoveicoli 45.4; 1;elettromedicali commercializzazione e assistenza; 1
+front; 1;ateco 81.3; 1;di consumer products; 1;energia elettrica gas vapore; 1
+gas; 1;attività culturali; 1;di energia elettrica; 1;fabbricazione di apparecchiature per; 1
+gestione; 1;automatiche per; 1;di macchine automatiche; 1;fabbricazione di prodotti chimici; 1
+immobiliare; 1;automotive e; 1;di manutenzione e; 1;fabbricazione di robot industriali; 1
+incluse; 1;autoveicoli 45.4; 1;di motocicli e; 1;fabbricazione do robot industriali; 1
+infantile; 1;codice ateco; 1;di prodotti animali; 1;fornitura di acqua 38; 1
+informatici; 1;coltivazioni agricole; 1;di prodotti chimici; 1;fornitura di energia elettrica; 1
+ingegneria; 1;commercializzazione e; 1;di raccolta trattamento; 1;front desk settore lapideo; 1
+italiane; 1;commercio all'ingrosso; 1;di relative parti; 1;gas vapore e aria; 1
+l'industria; 1;commercio di; 1;di robot industriali; 1;gestione delle reti fognarie; 1
+lapideo; 1;condizionata 37; 1;disegno e costruzione; 1;incluse parti e accessori; 1
+libero; 1;consumer products; 1;dispositivi elettromedicali commercializzazione; 1;l'industria automotive e di; 1
+materiali; 1;costruzione di; 1;do robot industriali; 1;la sola attività di; 1
+medico; 1;culturali settore; 1;e aria condizionata; 1;macchine automatiche per l'industria; 1
+mobili; 1;cura e; 1;e commercio di; 1;manutenzione di altre apparecchiature; 1
+moda; 1;dei materiali; 1;e costruzione di; 1;molteplici incluse parti e; 1
+motocicli; 1;dei rifiuti; 1;e di consumer; 1;motocicli e commercio di; 1
+operatore; 1;del paesaggio; 1;e fornitura di; 1;per l'industria automotive e; 1
+ortopedici; 1;delle reti; 1;e manutenzione del; 1;per la sola attività; 1
+paesaggio; 1;desk settore; 1;e manutenzione di; 1;per usi molteplici incluse; 1
+pagamento; 1;di acqua; 1;e produzione di; 1;prodotti animali 3 pesca; 1
+parcheggio; 1;di altre; 1;e smaltimento dei; 1;produzione di prodotti animali; 1
+pesca; 1;di apparecchiature; 1;elettrica gas vapore; 1;raccolta trattamento e fornitura; 1
+products; 1;di autoveicoli; 1;elettromedicali commercializzazione e; 1;raccolta trattamento e smaltimento; 1
+professionista; 1;di base; 1;energia elettrica gas; 1;rifiuti recupero dei materiali; 1
+recupero; 1;di consumer; 1;fabbricazione di apparecchiature; 1;riparazione di autoveicoli 45.4; 1
+relative; 1;di energia; 1;fabbricazione di prodotti; 1;riparazione di motocicli e; 1
+reti; 1;di manutenzione; 1;fabbricazione di robot; 1;riparazione e manutenzione di; 1
+riabilitazione; 1;di motocicli; 1;fabbricazione do robot; 1;smaltimento dei rifiuti recupero; 1
+rifiuti; 1;di raccolta; 1;fornitura di acqua; 1;sola attività di manutenzione; 1
+sanitari; 1;di relative; 1;fornitura di energia; 1;trattamento e fornitura di; 1
+sanitario; 1;di robot; 1;front desk settore; 1;trattamento e smaltimento dei; 1
+scuola; 1;disegno e; 1;gas vapore e; 1;usi molteplici incluse parti; 1
+smaltimento; 1;dispositivi elettromedicali; 1;gestione delle reti; 1;vapore e aria condizionata; 1
+software; 1;do robot; 1;incluse parti e; 1;vendita abbonamenti parcheggio a; 1
+sola; 1;e accessori; 1;l'industria automotive e; 1;NA;NA
+spa; 1;e acquacoltura; 1;la sola attività; 1;NA;NA
+superiore; 1;e aria; 1;macchine automatiche per; 1;NA;NA
+telecomunicazioni; 1;e assistenza; 1;manutenzione del paesaggio; 1;NA;NA
