@@ -1,0 +1,22 @@
+---
+title: "I-RIM Source Code"
+author: "Giorgio Maria Di Nunzio"
+date: "02/02/2021"
+output: html_document
+---
+
+# I-RIM Source Code
+
+In this repository you can find the source code used to produce the plots of the paper "Making an Opportunity out of a Crisis: The Inclusive Approach of the Italian Robotics Community" submitted to the IEEE Robotics & Automation Magazine [Special Issue on Robotics Response for the COVID-19 Outbreak]( https://ieeexplore.ieee.org/document/9113353)
+
+## Run the code
+
+First run the *analysis.R* file, then the *plot_summary.R* file. You will find the data in the *data_ngram* folder while the plots in the *plots* folder.
+
+```{r run_code, echo=FALSE}
+
+source("analysis.R")
+
+source("plot_summary.R")
+
+```
