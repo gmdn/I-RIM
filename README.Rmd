@@ -2,7 +2,7 @@
 title: "I-RIM Source Code"
 author: "Giorgio Maria Di Nunzio"
 date: "02/02/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 # I-RIM Source Code
